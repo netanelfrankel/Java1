@@ -38,7 +38,6 @@ Examples:
 ```
 Enter a string: This is a test.
 THIS is A test. 
-
 Process finished with exit code 0
 ```
 ```
